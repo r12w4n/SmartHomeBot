@@ -7,7 +7,7 @@
 //char password[] = "Redhat@12345";
 
 // Initialize Telegram BOT
-#define BOTtoken "941971545:AAH8U8PSnmWqBug6pXVO6P0tGaaEhkE18DA"
+#define BOTtoken "941971545:AAH8U8Pxxxxxxxxxxxxxxxxxx"
 WiFiClientSecure client;
 UniversalTelegramBot bot(BOTtoken, client);
 
