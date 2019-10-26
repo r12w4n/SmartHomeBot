@@ -4,7 +4,7 @@
 #include <WiFiManager.h> 
 #include <DNSServer.h>
 //char ssid[] = "homenet";
-//char password[] = "Redhat@12345";
+//char password[] = "password";
 
 // Initialize Telegram BOT
 #define BOTtoken "941971545:AAH8U8Pxxxxxxxxxxxxxxxxxx"
